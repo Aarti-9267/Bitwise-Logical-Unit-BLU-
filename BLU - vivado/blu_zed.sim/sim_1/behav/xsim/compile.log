@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx_project/blu_zed/blu_zed.srcs/sources_1/new/blu_zed.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blu_zed
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx_project/blu_zed/blu_zed.srcs/sim_1/new/blu_zed_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blu_zed_tb
