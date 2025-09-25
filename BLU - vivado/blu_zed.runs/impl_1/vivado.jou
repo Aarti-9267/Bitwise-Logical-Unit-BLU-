@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Sat Jul 19 19:08:23 2025
+# Process ID         : 27616
+# Current directory  : D:/Xilinx_project/blu_zed/blu_zed.runs/impl_1
+# Command line       : vivado.exe -log blu_zed.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source blu_zed.tcl -notrace
+# Log file           : D:/Xilinx_project/blu_zed/blu_zed.runs/impl_1/blu_zed.vdi
+# Journal file       : D:/Xilinx_project/blu_zed/blu_zed.runs/impl_1\vivado.jou
+# Running On         : Desktop-Aarti
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i5-12500H
+# CPU Frequency      : 3110 MHz
+# CPU Physical cores : 12
+# CPU Logical cores  : 16
+# Host memory        : 16869 MB
+# Swap memory        : 12884 MB
+# Total Virtual      : 29754 MB
+# Available Virtual  : 7996 MB
+#-----------------------------------------------------------
+source blu_zed.tcl -notrace
